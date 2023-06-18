@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+<img width="977" alt="Screen Shot 2023-06-18 at 3 04 44 PM" src="https://github.com/paola-sc/project_promptopia/assets/120519483/404eb07d-0d83-4ae9-9dd0-9160461ec487">
+
 ## Getting Started
 
 First, run the development server:
