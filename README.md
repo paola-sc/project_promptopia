@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Visit this site at: https://project-promptopia-ebon.vercel.app/
+Visit this site at: [https://project-promptopia-ebon.vercel.app/](https://project-promptopia-paola-sc.vercel.app/)
 
 <br/>
 <p align="center">
